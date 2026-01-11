@@ -32,6 +32,6 @@ l’administrateur gère les produits, les commandes et les utilisateurs.
 
 ## Auteur
 Fotso Teno Herman
+
 Étudiant en GSI – ISH
-Fotso Teno Herman  
-Étudiant en GSI – ISH
+
